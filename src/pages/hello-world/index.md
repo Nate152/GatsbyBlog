@@ -1,5 +1,5 @@
 ---
-title: Innagural Post - Gatsby.js and other templates
+title: Innagural Post - Gatsby.js and other template options
 date: "2018-10-29"
 ---
 
@@ -21,6 +21,6 @@ So I started looking at other options. Rebuild it with react or some other more 
 
 But Gatsby is not what I used to build my portfolio site. Ultimately I wanted to be able to control and edit more of the content on the page without all the react headache. I also felt pressed for time as I was starting the process of applying for jobs and I wanted to have that strong virtual first impression before I even met with someone for an interview. Thats when I remembered my mentor talking about html5up and their templates. These are completely free templates that you can download and customize to your hearts content. Everything is super easy to edit as long as you know html and most of the designs come with a multitude of examples to show the different elements you can use. There are a number of templates to choose from and some of them I even recognized and remembered seeing in the Gatsby starter section. These designs really are beautiful and they already have animations built in to give them that little bit of pizzaz. All of the templates are super polished and did I mention how easy they are to edit? Let me just say it again, its truly a breeze and I was able to put together a great profile page in no time at all. This was definitely the fastest and easiest way (if you can code) to put together an impressive portfolio page to be proud of. I would strongly recommend this route to anyone who wants to quickly get a page up that looks great out of the box.
 
-I think I mentioned it earlier but for those that want to check it out, my page is nathanielflory.com. I have yet to show my mentor but I have a feeling he will like this one a bit better. Feel free to message me on linkedin or through my site if you have any feedback for me. Im always trying to better myself and learn new things.
+I think I mentioned it earlier but for those that want to check it out, my page is https://www.nathanielflory.com. I have yet to show my mentor but I have a feeling he will like this one a bit better. Feel free to message me on linkedin or through my site if you have any feedback. Im always trying to better myself and learn new things.
 
 I'm sure I'll write a lot more interesting things in the future. Until then, happy coding.

@@ -55,14 +55,25 @@ class Template extends React.Component {
     return (
       <div
         style={{
+          color: '#ffffff',
           marginLeft: 'auto',
           marginRight: 'auto',
-          maxWidth: rhythm(24),
+          maxWidth: rhythm(50),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          backgroundImage: 'url(https://images.pexels.com/photos/1498964/pexels-photo-1498964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)',
+          backgroundPosition: 'center',
+          backgroundSize: 'cover',
         }}
       >
+      <div style={{
+        marginLeft: 'auto',
+        marginRight: 'auto',
+        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        backgroundColor: 'rgba(0, 0, 0, 0.75)',
+      }}>
         {header}
         {children}
+      </div>  
       </div>
     )
   }
