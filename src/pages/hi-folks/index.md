@@ -1,12 +1,24 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
+title: Easy Animations
+date: "2018-10-30"
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+For this post I wanted to talk about some really awesome animation libraries I've been working with lately. The primary ones I'm going to talk about will be Animate on Scroll (AOS) and Greensock Animation Platform (GSAP). I have been loving both of these libraries to add that little bit of polish to a website. Both GSAP and AOS are super easy to implement into your project and with some experimenting you can do just about anything you want.
+
+From fades and easing to rotations and zooms, GSAP can do just about any animation you can think of. It takes some work getting used to but once you get the hang of tweens you can really go crazy with this library.
+
+Oh, and here's a great quote from this Wikipedia on
+[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+
+> A salted duck egg is a Chinese preserved food product made by soaking duck
+> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+> charcoal paste. The eggs may also be sold with the salted paste removed,
+> wrapped in plastic, and vacuum packed. From the salt curing process, the
+> salted duck eggs have a briny aroma, a gelatin-like egg white and a
+> firm-textured, round yolk that is bright orange-red in color.
+
+![Chinese Salty Egg](./salty_egg.jpg)
 
 ## On deer horse aboard tritely yikes and much
 
